@@ -16,5 +16,11 @@ This project predicts car prices based on factors like year, kilometers driven, 
 - Scikit-learn  
 - Matplotlib  
 
+## 📂 Files Included
+- quikr_car.csv – Raw data file
+- Cleaned_Car_data.csv – Cleaned data file
+- LinearRegressionModel.pkl – Trained model file
+
 ## 📎 Dataset
 Source: quikr_car.csv
+
